@@ -29,7 +29,7 @@ The **Drum Machine** is a React-based web application that allows users to play 
 
 ## Demo
 
-Check out the live demo of the Drum Machine [here](INSERT_GITHUB_PAGES_LINK).
+Check out the live demo of the Drum Machine [here](https://bilalhabib020.github.io/fcc-drum-machine).
 
 ---
 
